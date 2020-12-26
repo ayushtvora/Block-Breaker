@@ -902,6 +902,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 218635746, guid: ed20aaf6633778547b15683ee0c0cc8c, type: 3}
+      propertyPath: isAutoPlayEnabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 56515265437434390, guid: ed20aaf6633778547b15683ee0c0cc8c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3553156963356003108, guid: ed20aaf6633778547b15683ee0c0cc8c,
         type: 3}
       propertyPath: m_Name
